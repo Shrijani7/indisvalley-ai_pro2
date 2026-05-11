@@ -1,0 +1,5 @@
+{
+  "ai engineer": ["python", "machine learning", "aws"],
+  "ml engineer": ["python", "pytorch", "docker"],
+  "cloud engineer": ["aws", "docker", "kubernetes"]
+}
